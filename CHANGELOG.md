@@ -1,52 +1,60 @@
 # Changelog
 
-## [0.3.2a2](https://github.com/TigreGotico/ovos-simple-listener/tree/0.3.2a2) (2026-09-10)
+## [0.3.2a3](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.2a3) (2026-09-26)
 
-[Full Changelog](https://github.com/TigreGotico/ovos-simple-listener/compare/0.3.2a1...0.3.2a2)
-
-**Merged pull requests:**
-
-- build: allow ovos-config 3.x [\#36](https://github.com/TigreGotico/ovos-simple-listener/pull/36) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.3.2a1](https://github.com/TigreGotico/ovos-simple-listener/tree/0.3.2a1) (2026-09-03)
-
-[Full Changelog](https://github.com/TigreGotico/ovos-simple-listener/compare/0.3.1a2...0.3.2a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.3.2a2...0.3.2a3)
 
 **Merged pull requests:**
 
-- fix: always finalize utterance and recover when STT errors or returns no transcript [\#34](https://github.com/TigreGotico/ovos-simple-listener/pull/34) ([JarbasAl](https://github.com/JarbasAl))
+- build: drop requirements.txt, pyproject is the dependency list [\#38](https://github.com/OpenVoiceOS/ovos-simple-listener/pull/38) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
 
-## [0.3.1a2](https://github.com/TigreGotico/ovos-simple-listener/tree/0.3.1a2) (2026-07-30)
+## [0.3.2a2](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.2a2) (2026-09-10)
 
-[Full Changelog](https://github.com/TigreGotico/ovos-simple-listener/compare/0.3.1a1...0.3.1a2)
-
-**Merged pull requests:**
-
-- docs: rewrite README in Simplified Technical English [\#31](https://github.com/TigreGotico/ovos-simple-listener/pull/31) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.3.1a1](https://github.com/TigreGotico/ovos-simple-listener/tree/0.3.1a1) (2026-06-20)
-
-[Full Changelog](https://github.com/TigreGotico/ovos-simple-listener/compare/0.3.0a1...0.3.1a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.3.2a1...0.3.2a2)
 
 **Merged pull requests:**
 
-- fix: allow ovos-bus-client 2.x [\#28](https://github.com/TigreGotico/ovos-simple-listener/pull/28) ([JarbasAl](https://github.com/JarbasAl))
+- build: allow ovos-config 3.x [\#36](https://github.com/OpenVoiceOS/ovos-simple-listener/pull/36) ([JarbasAl](https://github.com/JarbasAl))
 
-## [0.3.0a1](https://github.com/TigreGotico/ovos-simple-listener/tree/0.3.0a1) (2026-06-15)
+## [0.3.2a1](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.2a1) (2026-09-03)
 
-[Full Changelog](https://github.com/TigreGotico/ovos-simple-listener/compare/0.2.0a1...0.3.0a1)
-
-**Merged pull requests:**
-
-- feat: gate utterance entry topic by legacy\_namespace \(AUDIO-IN-1 §5\) [\#26](https://github.com/TigreGotico/ovos-simple-listener/pull/26) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.2.0a1](https://github.com/TigreGotico/ovos-simple-listener/tree/0.2.0a1) (2026-03-11)
-
-[Full Changelog](https://github.com/TigreGotico/ovos-simple-listener/compare/0.1.0...0.2.0a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.3.1a2...0.3.2a1)
 
 **Merged pull requests:**
 
-- feat: add CI workflows, unit tests, fix FAQ paths, update audit [\#24](https://github.com/TigreGotico/ovos-simple-listener/pull/24) ([JarbasAl](https://github.com/JarbasAl))
+- fix: always finalize utterance and recover when STT errors or returns no transcript [\#34](https://github.com/OpenVoiceOS/ovos-simple-listener/pull/34) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.3.1a2](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.1a2) (2026-07-30)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.3.1a1...0.3.1a2)
+
+**Merged pull requests:**
+
+- docs: rewrite README in Simplified Technical English [\#31](https://github.com/OpenVoiceOS/ovos-simple-listener/pull/31) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.3.1a1](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.1a1) (2026-06-20)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.3.0a1...0.3.1a1)
+
+**Merged pull requests:**
+
+- fix: allow ovos-bus-client 2.x [\#28](https://github.com/OpenVoiceOS/ovos-simple-listener/pull/28) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.3.0a1](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.0a1) (2026-06-15)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.2.0a1...0.3.0a1)
+
+**Merged pull requests:**
+
+- feat: gate utterance entry topic by legacy\_namespace \(AUDIO-IN-1 §5\) [\#26](https://github.com/OpenVoiceOS/ovos-simple-listener/pull/26) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.2.0a1](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.2.0a1) (2026-03-11)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.1.0...0.2.0a1)
+
+**Merged pull requests:**
+
+- feat: add CI workflows, unit tests, fix FAQ paths, update audit [\#24](https://github.com/OpenVoiceOS/ovos-simple-listener/pull/24) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
