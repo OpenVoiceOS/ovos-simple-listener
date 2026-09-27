@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.3a1](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.3a1) (2026-09-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.3.2a3...0.3.3a1)
+
+**Merged pull requests:**
+
+- fix\(ci\): set test\_path so the build test actually runs the tests [\#39](https://github.com/OpenVoiceOS/ovos-simple-listener/pull/39) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [0.3.2a3](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.2a3) (2026-09-26)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.3.2a2...0.3.2a3)
