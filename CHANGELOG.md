@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.3a2](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.3a2) (2026-10-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.3.3a1...0.3.3a2)
+
+**Merged pull requests:**
+
+- ci: delete the deprecated python-support.yml [\#43](https://github.com/OpenVoiceOS/ovos-simple-listener/pull/43) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [0.3.3a1](https://github.com/OpenVoiceOS/ovos-simple-listener/tree/0.3.3a1) (2026-09-27)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-simple-listener/compare/0.3.2a3...0.3.3a1)
